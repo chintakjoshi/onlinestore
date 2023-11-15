@@ -1,21 +1,33 @@
 # onlinestore
 
-# General Idea about the project
-
-
-
+# Our Project
 
 
 # Functional requirements
+1) Payment Security
+2) 3rd Party Integrations
+3) User Frinedly UI
+4) Smooth User Journeys
+5) Order and checkout flow
 
+# Non-functional Requirements
+1) Performance
+2) Reliability
+3) Availability
+4) Security
+5) Usability
+6) Scalability
+7) Maintainability
+8) Clean Code
+9) Documentation
+10) Interoperability
+11) Integration
+12) Legal and Compliance:
+13) Data Privacy
+14) Licensing
 
-
-
-# Non-functional requirements
-
-
-# tech stack
-
+# Our Tech Stack
+Python Django Framework with DBSqlite.
 
 # Stakeholders
 Certainly, As we are working on developing an online store, there are various stakeholders involved, each with their own interests and responsibilities. Here is a list of some key stakeholders: 
@@ -34,4 +46,4 @@ Legal and Compliance Experts: They ensure that the online store complies with lo
 Financial Advisors/Accountants: Professionals who manage the financial aspects of the online store, including budgeting, accounting, and financial planning
 Investors: If the online store is funded by external investors, they are stakeholders with a financial interest in the success of the business. 
 User Experience (UX) and User Interface (UI) Designers: These experts focus on creating an intuitive and pleasant user experience, making it easy for customers to navigate the site and make purchases. 
-Each of these stakeholders plays a unique role in the development and ongoing operation of an online store, and effective communication and collaboration among them are essential for its success. 
+Each of these stakeholders plays a unique role in the development and ongoing operation of an online store, and effective communication and collaboration among them are essential for its success.
