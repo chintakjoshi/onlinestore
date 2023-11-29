@@ -6,7 +6,7 @@ This is a very simple e-commerce website built with Django.
 
 The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing.
 
-[![alt text](https://justdjango.s3-us-west-2.amazonaws.com/media/thumbnails/djecommerce.png "Logo")]
+![alt text](https://justdjango.s3-us-west-2.amazonaws.com/media/thumbnails/djecommerce.png "Logo")
 
 ---
 
@@ -43,3 +43,13 @@ python manage.py runserver
 ```
 
 **Note** if you want payments to work you will need to enter your own Stripe API keys into the `.env` file in the settings files.
+
+# About Us
+This project is carried by a group of graduate students studying at Saint Louis University and a part of SLU Global Grads.
+
+# Team Members
+1) Chintak Joshi - Team Lead - MSCS
+2) Nikhar Viroja - Developer - MSCS
+3) Pruthviraj Butiya - Developer - MSCS
+4) Sowmya - Developer - MSIS
+5) Prathima Chowdary - Developer - MSCS
