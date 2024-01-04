@@ -15,6 +15,10 @@ The website displays products. Users can add and remove products to/from their c
 To get this project up and running you should start by having Python installed on your computer. It's advised you create a virtual environment to store your projects dependencies separately. You can install virtualenv with
 
 ```
+To execute this project on your local machine, it is necessary to have Python version 3.8 installed.
+```
+
+```
 pip3 install virtualenv
 ```
 
